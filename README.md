@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Animation" width="350">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cute Developer" alt="Coding Animation" width="350">
 </div>
 
 ---
@@ -23,10 +23,6 @@
 </div>
 
 ---
-
-<div align="right">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cute Developer" width="150">
-</div>
 
 <div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Cute Developer" width="150">
