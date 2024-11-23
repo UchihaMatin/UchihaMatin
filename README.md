@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif" alt="Programming Gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Programming Gif" width="600">
 </div>
