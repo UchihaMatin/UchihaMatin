@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1xd2VrbnJhcjB0anRycDk1c2pscmF6bmFwYmZ2NjgxOHh5bnRldiZlcD12MV9kNTRmNzU1ZDYxZjMzOWRmMTg4ZWZlZmQzOTFiNjkwOWI0Y2E2MjY4&rid=giphy.gif" alt="Glitch Gif" width="800">
+  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="Coding Animation" width="600">
 </div>
 
 ---
@@ -14,8 +14,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-React-00D8FF?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -24,10 +24,14 @@
 
 ---
 
+<div align="right">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cute Developer" width="150">
+</div>
+
 ### 📂 **Projects:**
 
-- 🛒 **Clothing Store Project**: An e-commerce platform for modern shopping.  
-- 🌟 **Team Intro Project**: Introducing team members with an interactive UI.  
+- 🛒 **Clothing Store Project**: A modern e-commerce platform.  
+- 🌟 **Team Intro Project**: Interactive introductions for teams.  
 - 📦 **More Coming Soon...**
 
 ---
@@ -35,8 +39,8 @@
 ### 💡 **What I'm Exploring:**
 
 - ⚛️ Diving deeper into **React**.  
-- 🤖 Getting hands-on with **Artificial Intelligence**.  
-- 🧩 Exploring problem-solving techniques and collaborative workflows.
+- 🤖 Exploring **Artificial Intelligence**.  
+- 🧩 Enhancing problem-solving techniques and team collaboration.
 
 ---
 
@@ -66,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUzZXY2eXMwdGJrZTdub2F3ZWJwdXRnZ2Vwd3loNHNsc3RoNWt3biZlcD12MV9kNTRmNzU1ZDYxZjMzOWRmMTg4ZWZlZmQzOTFiNjkwOWI0Y2E2MjY4&rid=giphy.gif" alt="Coding Fun Gif" width="600">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Programming Gif" width="600">
 </div>
