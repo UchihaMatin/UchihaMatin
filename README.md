@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Programming Gif" width="600">
+  <img src="**https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif**" alt="Programming Gif" width="600">
 </div>
