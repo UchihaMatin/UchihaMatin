@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsh3JW1d0YAM-lQg07pK1tbWmm3ZEH9zFhw&s" alt="Coding Animation" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding Animation" width="600">
 </div>
 
 ---
