@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Programming Gif" width="600">
+  <img src="[https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)" alt="Programming Gif" width="600">
 </div>
