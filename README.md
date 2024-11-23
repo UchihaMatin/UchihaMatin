@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👾, I'm <span style="color:#00D8FF;">Matin Asghari</span></h1>
+![image](https://github.com/user-attachments/assets/e8083be8-5715-42aa-ae0e-d445147a9d9f)<h1 align="center">Welcome 👾, I'm <span style="color:#00D8FF;">Matin Asghari</span></h1>
 <h3 align="center">🚀 Frontend Developer | 🤖 AI Enthusiast | 🔍 Always Exploring</h3>
 
 ---
@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="**https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif**" alt="Programming Gif" width="600">
+  <img src="****https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif****" alt="Programming Gif" width="600">
 </div>
